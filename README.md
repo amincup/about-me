@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @amincup
-- 👀 I’m interested in android dev
+- 👀 I’m interested in Android & IoT Dev
 - 🌱 I’m currently learning java and kotlin
 - 💞️ I’m looking to collaborate on designer ui/ux
 - 📫 How to reach me : instagram yusuffaa_
